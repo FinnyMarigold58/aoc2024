@@ -3,7 +3,7 @@
 const input = await Bun.file("./inputs/list.txt").text();
 
 // Grab each line of input then split into left and right
-const lines = input.split("\r\n").map((element) => element.split("   "));
+const lines = input.split("\n").map((element) => element.split("   "));
 
 // Combine Into lists (llist and rlist), as a Number so we can sort later
 const llist: number[] = [];
