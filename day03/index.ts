@@ -1,5 +1,3 @@
-import { validateLocaleAndSetLanguage } from "typescript";
-
 // Get File
 const file = await Bun.file("./inputs/input.txt").text();
 

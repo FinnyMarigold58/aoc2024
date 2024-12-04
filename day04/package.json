@@ -1,0 +1,7 @@
+{
+  "name": "day04",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.ts"
+  }
+}

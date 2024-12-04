@@ -1,0 +1,1 @@
+Accidentally got an AI response when searching for a crossword search algorithm, so went ahead and commented the code for future attempts to remember this.
